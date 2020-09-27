@@ -1,0 +1,33 @@
+body {
+    background-color: beige;
+    margin: 0
+
+}
+
+.main {
+    width: 50%;
+    margin: 50px auto;
+    text-align : center;
+}
+.heading {
+    font-size: 3rem;
+}
+.secondHeading {
+    font-size: 2rem;
+}
+
+.taskList {
+    width: 50%;
+    margin: 50px auto;
+}
+
+
+li {
+    margin: 20px auto;
+    font-size: 1.5rem;
+}
+button { 
+    position: absolute;
+    right: 200px;
+
+}
